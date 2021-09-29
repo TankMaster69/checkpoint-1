@@ -1,0 +1,6 @@
+Program 1:
+for x in range(2200,3201):
+    if ((x%7 == 0) and (x%5 != 0)) :
+        print(x)
+        
+        Program 2:
