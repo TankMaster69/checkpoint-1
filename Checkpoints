@@ -9,3 +9,12 @@ F = 1
 for i in range(1, nbr+1):
   F = F * i
 print (nbr,'! = ',F)
+          
+          Program 3: 
+n=int(input("Input a number "))
+d = dict()
+
+for x in range(1,n+1):
+    d[x]=x*x
+
+print(d) 
